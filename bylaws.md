@@ -31,7 +31,9 @@
 
 3.	Elections of officers shall be held at the Annual General Meeting. Officers elected shall take office on the first day of the next fiscal year and serve for two years. Elections of officers shall be held to fill open seats and all officers will serve a term of 2 years.
 
-4.	All officers shall be elected in accordance with the procedures set forth by a resolution of the Executive Council.
+4.  No officer shall serve more than two (2) times consecutively and eight (8) years in total.
+
+5.	All officers shall be elected in accordance with the procedures set forth by a resolution of the Executive Council.
 
 ## Article V. - Duties of Officers
 1.	The Chair is the principal officer and is responsible for leading the Chapter and managing its activities in accordance with the policies and procedures of the Internet Society and these bylaws. The Chair shall preside at all meetings of the Chapter and of its Executive Council. With the advice of the Chapter's Executive Council, the Chair shall appoint all members of committees of the Chapter and all Committee chairpersons.
