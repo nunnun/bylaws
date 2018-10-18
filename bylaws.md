@@ -31,7 +31,7 @@
 
 3.	Elections of officers shall be held at the Annual General Meeting. Officers elected shall take office on the first day of the next fiscal year and serve for two years. Elections of officers shall be held to fill open seats and all officers will serve a term of 2 years.
 
-4.  No officer shall serve more than two (2) times consecutively and eight (8) years in total.
+4.	 No officer shall serve more than four (4) times consecutively and eight (8) years in total.
 
 5.	All officers shall be elected in accordance with the procedures set forth by a resolution of the Executive Council.
 
